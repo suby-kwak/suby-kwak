@@ -11,6 +11,7 @@
 ![OracleDB](https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=suby-kwak&show_icons=true)](https://github.com/suby-kwak)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suby-kwak&layout=compact)](https://github.com/suby-kwak/github-readme-stats)
 
 <br>
