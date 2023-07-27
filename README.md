@@ -6,7 +6,6 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=suby-kwak)](https://github.com/suby-kwak)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=suby-kwak&show_icons=true&theme=radical)](https://github.com/suby-kwak)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suby-kwak)](https://github.com/suby-kwak/github-readme-stats)
 
