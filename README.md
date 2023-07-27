@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20suby-kwak%20&&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20%20%20suby-kwak%20%20%20&height=200&fontSize=50&textBg=true&animation=fadeIn)
 
 <br>
 <br>
